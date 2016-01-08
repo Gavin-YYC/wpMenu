@@ -1,0 +1,22 @@
+#myArticleMenu{
+    padding: 10px;
+    list-style: none;
+    border:1px solid #a0b3d6;
+}
+#myArticleMenu li a{
+    display: block;
+    width:100%;
+}
+#myArticleMenu .dragHead{
+    position: absolute;
+    top:-30px;
+    left:0px;
+    height:30px;
+    width:100%;
+    background-color:rgb(162, 214, 154);
+    text-align:center;
+    line-height:30px;
+    cursor: move;
+    border:1px solid #a0b3d6;
+    margin-left:-1px;
+}

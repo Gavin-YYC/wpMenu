@@ -1,4 +1,4 @@
-# wordpress article menu
+# Menu for WP blog
 
 a script can extract the article's h1 label,then use those labels to make up a new menu.
 
